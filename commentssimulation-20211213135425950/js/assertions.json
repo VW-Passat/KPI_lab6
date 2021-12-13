@@ -1,0 +1,10 @@
+{
+  "simulation": "commentsSimulation",
+  "simulationId": "commentssimulation",
+  "start": 1639403665950,
+  "description": "",
+  "scenarios": ["Post comments", "Get comments", "Put comments", "Delete comments"],
+  "assertions": [
+
+  ]
+}
